@@ -1,6 +1,7 @@
 fastapi
 gunicorn
-uvicorn 
+uvicorn
 jinja2
 pytest
 requests
+pre-commit
